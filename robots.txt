@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Zeitfrei.github.io/traulsen.me/sitemap.xml

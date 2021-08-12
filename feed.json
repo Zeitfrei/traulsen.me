@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "traulsen",
+    "description": "",
+    "home_page_url": "https://Zeitfrei.github.io/traulsen.me",
+    "feed_url": "https://Zeitfrei.github.io/traulsen.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Henning Traulsen"
+    },
+    "items": [
+        {
+            "id": "https://Zeitfrei.github.io/traulsen.me/its-a-me.html",
+            "url": "https://Zeitfrei.github.io/traulsen.me/its-a-me.html",
+            "title": "Its a Me",
+            "summary": "This website is all about meeee",
+            "content_html": "<p>This website is all about meeee</p>",
+            "author": {
+                "name": "Henning Traulsen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-12T13:52:29+02:00",
+            "date_modified": "2021-08-12T13:52:29+02:00"
+        }
+    ]
+}
