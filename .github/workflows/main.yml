@@ -12,10 +12,9 @@ jobs:
     steps:            
     - uses: actions/checkout@v2
       with:
-        token: ${{secrets.PAT}}
+        token: ${{secrets.publii}}
     - run: |
-        # do something
-        git push
+        git push origin publii:main
     - uses: azure/login@v1
       with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
