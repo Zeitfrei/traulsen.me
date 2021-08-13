@@ -1,9 +1,6 @@
 name: Blob storage website CI
 
-on:
-  push:
-    branches:
-      - publii
+on: [push]
 
 jobs:
   build:
