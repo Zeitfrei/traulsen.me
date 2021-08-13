@@ -5,23 +5,72 @@
     "home_page_url": "https://traulsen.azureedge.net",
     "feed_url": "https://traulsen.azureedge.net/feed.json",
     "user_comment": "",
+    "icon": "https://traulsen.azureedge.net/media/website/kapellenergrote2-2.jpg",
     "author": {
         "name": "Henning Traulsen"
     },
     "items": [
         {
-            "id": "https://traulsen.azureedge.net/its-a-me.html",
-            "url": "https://traulsen.azureedge.net/its-a-me.html",
-            "title": "Its a Me",
-            "summary": "This website is all about meeee",
-            "content_html": "<p>This website is all about meeee</p>",
+            "id": "https://traulsen.azureedge.net/an-den-siffen.html",
+            "url": "https://traulsen.azureedge.net/an-den-siffen.html",
+            "title": "An den Siffen",
+            "summary": "einmalig",
+            "content_html": "<p>einmalig</p>",
             "author": {
                 "name": "Henning Traulsen"
             },
             "tags": [
             ],
-            "date_published": "2021-08-12T13:52:29+02:00",
-            "date_modified": "2021-08-12T13:52:29+02:00"
+            "date_published": "2021-08-13T08:08:56+02:00",
+            "date_modified": "2021-08-13T08:08:56+02:00"
+        },
+        {
+            "id": "https://traulsen.azureedge.net/strassen.html",
+            "url": "https://traulsen.azureedge.net/strassen.html",
+            "title": "Strassen",
+            "author": {
+                "name": "Henning Traulsen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-13T08:08:48+02:00",
+            "date_modified": "2021-08-13T08:08:48+02:00"
+        },
+        {
+            "id": "https://traulsen.azureedge.net/sv-glueckauf.html",
+            "url": "https://traulsen.azureedge.net/sv-glueckauf.html",
+            "title": "SV Glückauf",
+            "author": {
+                "name": "Henning Traulsen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-13T08:08:38+02:00",
+            "date_modified": "2021-08-13T08:08:38+02:00"
+        },
+        {
+            "id": "https://traulsen.azureedge.net/die-vereine.html",
+            "url": "https://traulsen.azureedge.net/die-vereine.html",
+            "title": "Die Vereine",
+            "author": {
+                "name": "Henning Traulsen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-13T08:07:56+02:00",
+            "date_modified": "2021-08-13T08:07:56+02:00"
+        },
+        {
+            "id": "https://traulsen.azureedge.net/das-dorf.html",
+            "url": "https://traulsen.azureedge.net/das-dorf.html",
+            "title": "Das Dorf",
+            "author": {
+                "name": "Henning Traulsen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-13T08:07:46+02:00",
+            "date_modified": "2021-08-13T08:07:46+02:00"
         }
     ]
 }

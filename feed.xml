@@ -3,30 +3,78 @@
     <title>traulsen</title>
     <link href="https://traulsen.azureedge.net/feed.xml" rel="self" />
     <link href="https://traulsen.azureedge.net" />
-    <updated>2021-08-12T13:52:29+02:00</updated>
+    <updated>2021-08-13T08:08:56+02:00</updated>
     <author>
         <name>Henning Traulsen</name>
     </author>
     <id>https://traulsen.azureedge.net</id>
 
     <entry>
-        <title>Its a Me</title>
+        <title>An den Siffen</title>
         <author>
             <name>Henning Traulsen</name>
         </author>
-        <link href="https://traulsen.azureedge.net/its-a-me.html"/>
-        <id>https://traulsen.azureedge.net/its-a-me.html</id>
+        <link href="https://traulsen.azureedge.net/an-den-siffen.html"/>
+        <id>https://traulsen.azureedge.net/an-den-siffen.html</id>
 
-        <updated>2021-08-12T13:52:29+02:00</updated>
+        <updated>2021-08-13T08:08:56+02:00</updated>
             <summary>
                 <![CDATA[
-                    This website is all about meeee
+                    einmalig
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This website is all about meeee</p>
+                <p>einmalig</p>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>Strassen</title>
+        <author>
+            <name>Henning Traulsen</name>
+        </author>
+        <link href="https://traulsen.azureedge.net/strassen.html"/>
+        <id>https://traulsen.azureedge.net/strassen.html</id>
+
+        <updated>2021-08-13T08:08:48+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>SV Glückauf</title>
+        <author>
+            <name>Henning Traulsen</name>
+        </author>
+        <link href="https://traulsen.azureedge.net/sv-glueckauf.html"/>
+        <id>https://traulsen.azureedge.net/sv-glueckauf.html</id>
+
+        <updated>2021-08-13T08:08:38+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Die Vereine</title>
+        <author>
+            <name>Henning Traulsen</name>
+        </author>
+        <link href="https://traulsen.azureedge.net/die-vereine.html"/>
+        <id>https://traulsen.azureedge.net/die-vereine.html</id>
+
+        <updated>2021-08-13T08:07:56+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Das Dorf</title>
+        <author>
+            <name>Henning Traulsen</name>
+        </author>
+        <link href="https://traulsen.azureedge.net/das-dorf.html"/>
+        <id>https://traulsen.azureedge.net/das-dorf.html</id>
+
+        <updated>2021-08-13T08:07:46+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
