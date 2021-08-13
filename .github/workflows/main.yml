@@ -2,13 +2,15 @@ name: Blob storage website CI
 
 on:
     push:
-        branches: [ main ]
+        branches: [ publii ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:   
     - uses: actions/checkout@v2
+      with:
+        ref: publii
     - uses: azure/login@v1
       with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
