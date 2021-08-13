@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>traulsen</title>
-    <link href="https://Zeitfrei.github.io/traulsen.me/feed.xml" rel="self" />
-    <link href="https://Zeitfrei.github.io/traulsen.me" />
+    <link href="https://traulsen.azureedge.net/feed.xml" rel="self" />
+    <link href="https://traulsen.azureedge.net" />
     <updated>2021-08-12T13:52:29+02:00</updated>
     <author>
         <name>Henning Traulsen</name>
     </author>
-    <id>https://Zeitfrei.github.io/traulsen.me</id>
+    <id>https://traulsen.azureedge.net</id>
 
     <entry>
         <title>Its a Me</title>
         <author>
             <name>Henning Traulsen</name>
         </author>
-        <link href="https://Zeitfrei.github.io/traulsen.me/its-a-me.html"/>
-        <id>https://Zeitfrei.github.io/traulsen.me/its-a-me.html</id>
+        <link href="https://traulsen.azureedge.net/its-a-me.html"/>
+        <id>https://traulsen.azureedge.net/its-a-me.html</id>
 
         <updated>2021-08-12T13:52:29+02:00</updated>
             <summary>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "traulsen",
     "description": "",
-    "home_page_url": "https://Zeitfrei.github.io/traulsen.me",
-    "feed_url": "https://Zeitfrei.github.io/traulsen.me/feed.json",
+    "home_page_url": "https://traulsen.azureedge.net",
+    "feed_url": "https://traulsen.azureedge.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "Henning Traulsen"
     },
     "items": [
         {
-            "id": "https://Zeitfrei.github.io/traulsen.me/its-a-me.html",
-            "url": "https://Zeitfrei.github.io/traulsen.me/its-a-me.html",
+            "id": "https://traulsen.azureedge.net/its-a-me.html",
+            "url": "https://traulsen.azureedge.net/its-a-me.html",
             "title": "Its a Me",
             "summary": "This website is all about meeee",
             "content_html": "<p>This website is all about meeee</p>",
