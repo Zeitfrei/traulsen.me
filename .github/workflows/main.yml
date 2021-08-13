@@ -1,6 +1,11 @@
 name: Blob storage website CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron:  '0 4 * * *'
 
 jobs:
   build:
